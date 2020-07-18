@@ -1,2 +1,2 @@
 # CN18_bot
-bot for everyone code
+bot for everyone coding project
